@@ -94,6 +94,8 @@ h2::after {
     color: #ffffff;
     font-size: 18px;
     text-transform: uppercase;
+    box-sizing: border-box;
+    padding: 10px 0px 10px 10px;
 }
 
 .products-price {
